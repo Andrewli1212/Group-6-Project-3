@@ -1,0 +1,115 @@
+.header {
+    text-align: center;
+    padding: 10px;
+}
+
+.logo {
+    display: inline-block;
+    width: 100px; 
+    height: 100px; 
+    vertical-align: middle;
+    margin-right: 10px; 
+}
+
+.header h1 {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    transition: .4s;
+    background-color: cyan;
+    /* Light mode background color */
+    color: black;
+    /* Light mode text color */
+}
+
+body.dark-mode {
+    background-color: darkslategray;
+    /* Dark mode background color */
+    color: white;
+    /* Dark mode text color */
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+select {
+    display: block;
+    width: 100%;
+    padding: 8px;
+    font-size: 16px;
+    border: 5px solid rebeccapurple;
+    border-radius: 4px;
+}
+
+.column {
+    text-align: center;
+    float: left;
+    width: 50%;
+}
+
+.lakersimage {
+    width: 150px;
+    height: 150px;
+}
+
+.celticsimage {
+    width: 150px;
+    height: 150px;
+}
+
+.heatimage {
+    width: 150px;
+    height: 150px;
+}
+
+.knicksimage {
+    width: 150px;
+    height: 150px;
+}
+
+.pistonsimage {
+    width: 150px;
+    height: 150px;
+}
+
+#switch-container {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 999;
+}
+
+#switch {
+    position: relative;
+    width: 60px;
+    height: 30px;
+    background-color: gray;
+    border-radius: 15px;
+    cursor: pointer;
+    transition: background-color .4s;
+}
+
+#circle {
+    position: absolute;
+    top: 2px;
+    left: 2px;
+    width: 26px;
+    height: 26px;
+    background-color: yellow;
+    border-radius: 50%;
+    transition: transform .4s;
+}
+
+#switch.active {
+    background-color: green;
+}
+
+#switch.active #circle {
+    transform: translateX(30px);
+}
