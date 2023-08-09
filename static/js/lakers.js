@@ -1,5 +1,5 @@
-let playerCSV = 'static/Resources/teamsplayer.csv'
-let teamCSV = 'static/Resources/lakersteam.csv'
+let playerCSV = 'static/Resources/LakersPlayers.csv'
+let teamCSV = 'static/Resources/LakersTeam.csv'
 
 // Function to populate the dropdown with player names
 function populateDropdown() {
