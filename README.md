@@ -32,10 +32,14 @@ This project aims to create an engaging and informative HTML page for NBA enthus
 
 Team Members:
 
-Andrew Li
-Darrel Reives
-Compton Chester
-Andi Mysllinj
-Mabeyda M
+1-Andrew Li
+
+2-Darrel Reives
+
+3-Compton Chester
+
+4-Andi Mysllinj
+
+5-Mabeyda M
 
 
