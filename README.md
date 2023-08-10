@@ -37,13 +37,17 @@ Team Members:
 1-Andrew Li
 
 2-Darrel Reives
-![MIAMI HEAT](https://github.com/Andrewli1212/Group-6-Project-3/assets/128929338/f218b273-15b8-429f-ba76-24fd424b9c8e)
-
+![MIAMI HEAT](https://github.com/Andrewli1212/Group-6-Project-3/assets/128929338/3a211a1b-4fba-4caa-aa87-849bf727190d)
 
 3-Compton Chester
+![NY knicks2](https://github.com/Andrewli1212/Group-6-Project-3/assets/128929338/528e235a-d997-4e1d-bcc7-e0145068d088)
 
 4-Andi Mysllinj
+![Detroit Pistons](https://github.com/Andrewli1212/Group-6-Project-3/assets/128929338/5fcfb594-04c4-4990-97b9-5d56168b366c)
 
 5-Mabeyda M
+![Boston Cel2](https://github.com/Andrewli1212/Group-6-Project-3/assets/128929338/0b2a9c33-83f3-4001-b2a2-7d0ef8e99bdd)
+
+
 
 
