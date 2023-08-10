@@ -38,7 +38,7 @@ This project aims to create an engaging and informative HTML page for NBA enthus
 
 Team Members:
 
-1-Andrew Li
+1-Andrew Li: Web Designer/Data Engineer and Lakers data cleaning and data storing in SQL. 
 
 ![lakers2](https://github.com/Andrewli1212/Group-6-Project-3/assets/128929338/3e8db437-ec93-4c4f-a11e-86610043f6c9)
 
