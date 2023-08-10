@@ -52,4 +52,5 @@ Team Members:
 
 5-Mabeyda M
 
--![Boston Cel2](https://github.com/Andrewli1212/Group-6-Project-3/assets/128929338/66e3a8d4-135a-4996-808a-cd5982a95189)
+-![boston2](https://github.com/Andrewli1212/Group-6-Project-3/assets/128929338/f654076b-7d38-464a-b2c0-9fdfefe7efbd)
+
