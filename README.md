@@ -37,6 +37,8 @@ Team Members:
 1-Andrew Li
 
 2-Darrel Reives
+![MIAMI HEAT](https://github.com/Andrewli1212/Group-6-Project-3/assets/128929338/f218b273-15b8-429f-ba76-24fd424b9c8e)
+
 
 3-Compton Chester
 
