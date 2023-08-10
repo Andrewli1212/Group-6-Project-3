@@ -46,7 +46,7 @@ function createRadarChart(selectedPlayerData) {
                 selectedPlayerData.AST,
                 selectedPlayerData.TRB,
             ],
-            theta: ['PTS (Points Per Game)', 'BLK (Blocks Per Game)', 'STL (Steals Per Game)', 'AST (Assists Per Game)', 'TRB (Total Rebounds Per Game'],
+            theta: ['PTS (Points Per Game)', 'BLK (Blocks Per Game)', 'STL (Steals Per Game)', 'AST (Assists Per Game)', 'TRB (Total Rebounds Per Game)'],
             fill: 'toself',
         },
     ];
