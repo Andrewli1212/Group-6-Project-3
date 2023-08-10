@@ -36,6 +36,8 @@ Team Members:
 
 1-Andrew Li
 
+-![lakers2](https://github.com/Andrewli1212/Group-6-Project-3/assets/128929338/3e8db437-ec93-4c4f-a11e-86610043f6c9)
+
 2-Darrel Reives
 
 -![MIAMI HEAT](https://github.com/Andrewli1212/Group-6-Project-3/assets/128929338/3a211a1b-4fba-4caa-aa87-849bf727190d)
