@@ -1,3 +1,5 @@
+#NBA Team Stats Visualization HTML Page
+
 The primary objective of this project is to develop an interactive HTML page that visualizes NBA team statistics for the past three years.
 By utilizing data from basketball-reference.com and stats.nba.com, we aim to provide valuable insights into team performances and individual player statistics, enabling users to make data-driven decisions.
 
